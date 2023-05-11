@@ -1,3 +1,3 @@
-# DSODK - DevSecOps Dev Kit
+# DSOPK - DevSecOps Platform Kit
 
-DSODK repository containing assets such as logo images and other media related to the dsodk project.
+DSOPK Repository containing assets, license, logo images and other media related to the dsopk project.
